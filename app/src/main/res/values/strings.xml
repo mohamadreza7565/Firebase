@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">نوتیفیکیشن</string>
+
+    <string name="quickstart_message">Click the SUBSCRIBE TO WEATHER button below to subscribe to the
+        weather topic. Messages sent to the weather topic will be received. The LOG TOKEN button logs the
+        FCM registration token to logcat.</string>
+    <string name="subscribe_to_weather">Subscribe To Weather</string>
+    <string name="log_token">Log Token</string>
+
+    <string name="msg_subscribed">Subscribed to weather topic</string>
+    <string name="msg_token_fmt" translatable="false">FCM registration Token: %s</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+
+    <!--TimeSinceAgo-->
+    <string name="relative_time_just_now"> چند لحظه پیش</string>
+    <string name="relative_time_one_minute_ago"> یک دقیقه پیش</string>
+    <string name="relative_time_minute_ago"> دقیقه پیش</string>
+    <string name="relative_time_one_hour_ago"> کمتر از یک ساعت پیش</string>
+    <string name="relative_time_hour_ago"> ساعت پیش</string>
+    <string name="relative_time_yesterday"> دیروز</string>
+    <string name="relative_time_days_ago"> روز پیش</string>
+
+</resources>
