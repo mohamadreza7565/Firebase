@@ -21,6 +21,7 @@ import java.util.Date;
 public class AddAppActivity extends AppCompatActivity {
 
     ActivityAddAppBinding binding;
+
     Context context = this;
     ArrayList<App> list;
     boolean howEdit = false;
